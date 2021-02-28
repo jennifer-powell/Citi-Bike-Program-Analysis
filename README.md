@@ -2,9 +2,11 @@
 ## Background
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the Citi Bike Data webpage.https://www.citibikenyc.com/system-data
 
+
 ## Link to Tableau Public
 - https://public.tableau.com/profile/jennifer.powell8088#!/vizhome/JenniferP/StoryofCitiBikeNov2019and2020
 ## Phenomenon
+The data used for this project included Novemeber 2019 and November 2020. Over a million rows of data for each month.
 ### Most popular birth year is 1969
 Starting off on a fun note... Notice the most popular year, 1969. This year is a running joke in pop culture, more so among the younger generations. This year only got more popular the following year with presumably with more using the bikes. (This also indicates that most are not truthful with their true age)
 ### Start and Stop Times
